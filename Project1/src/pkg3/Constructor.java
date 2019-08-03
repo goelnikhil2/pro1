@@ -28,5 +28,6 @@ public class Constructor {
 	public static void main(String[] args) {
 		Constructor obj = new Constructor(2,4);
 		System.out.println("hello");
+		System.out.println("new one");
 	}
 }
